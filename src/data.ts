@@ -4476,6 +4476,28 @@ export const DEFAULT_PRODUCTS: Product[] = [
     "hectoFactor": 0.01,
     "cost": 0,
     "curve": "C"
+  },
+  {
+    "code": "6181",
+    "description": "AGUA MIN DIAS DAVILA S/GAS PET 500ML CAIXA C/12",
+    "group": "CERVEJA",
+    "unit": "un",
+    "palletFactor": 84,
+    "skuFactor": 1,
+    "hectoFactor": 0.06,
+    "cost": 6.08,
+    "curve": "C"
+  },
+  {
+    "code": "6183",
+    "description": "AGUA MIN DIAS DAVILA C/GAS PET 500ML CAIXA C/12",
+    "group": "CERVEJA",
+    "unit": "un",
+    "palletFactor": 84,
+    "skuFactor": 1,
+    "hectoFactor": 0.06,
+    "cost": 14.98,
+    "curve": "C"
   }
 ];
 
